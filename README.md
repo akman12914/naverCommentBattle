@@ -1,2 +1,2 @@
-# naverCafeCommentBattle
+# naverCommentBattle
 try
